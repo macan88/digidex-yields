@@ -1,0 +1,111 @@
+[
+  {
+    "sousId": 0,
+    "chainId": 56,
+    "name": "JAMU -> JAMU Reward Pool",
+    "tokenName": "JAMU",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JAMU.svg",
+    "stakingToken": {
+      "symbol": "JAMU",
+      "address": {
+        "97": "",
+        "56": "0xEC0C9a2532a7BeEe962520469D5B5B4Cc7f360a1"
+      },
+      "decimals": 18
+    },
+    "rewardToken": {
+      "symbol": "JAMU",
+      "address": {
+        "56": "0xEC0C9a2532a7BeEe962520469D5B5B4Cc7f360a1"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 250000000000000000,
+    "startBlock": 0,
+    "bonusEndBlock": 0,
+    "contractAddress": {
+        "97": "",
+        "56": "0x2c8370B1DDC43062e9027F0F369A18e1fF9Daf94"
+    },
+    "poolCategory": "CORE",
+    "projectLink": "https://digidex.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 2,
+    "chainId": 56,
+    "name": "DIGICHAIN -> DIGICHAIN Reward Pool",
+    "tokenName": "DIGICHAIN",
+    "image": "https://raw.githubusercontent.com/macan88/digidex-token-lists/main/assets/DIGICHAIN.svg",
+    "stakingToken":{
+      "symbol":"DIGICHAIN",
+      "address":{
+        "97":"",
+        "56":"0x4732A86106064577933552FCea993D30BEC950a5"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "DIGICHAIN",
+      "address": {
+        "56": "0xe21323A670b8eB4b98637308f5685dF6F02C08c9"
+      },
+      "decimals": 9
+    },
+    "rewardPerBlock": "150000000000000000",
+    "startBlock": 6770043,
+    "bonusEndBlock": 93917806,
+    "contractAddress": {
+        "97": "",
+        "56": "0x8F97B2E6559084CFaBA140e2AB4Da9aAF23FE7F8"
+    },
+    "poolCategory": "DIGICHAINZONE",
+    "projectLink": "https://digidex.finance/digichainzone",
+    "harvest": true,
+    "sortOrder": 1,
+    "isFinished": false,
+    "tokenDecimals": 9,
+    "abi": "BEP20_REWARD_DIGICHAIN_ABI"
+	},
+  
+    {
+    "sousId": 3
+    "chainId": 56,
+    "name": "TESTRUN -> TESTRUN Reward Pool",
+    "tokenName": "TESTRUN",
+    "stakingToken": {
+      "symbol": "TESTRUN",
+      "address": {
+        "97": "",
+        "56": "0xF233Cf443f3a5D5de3e84cA4a95A33476b922D07"
+      },
+      "decimals": 9
+      },
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TESTRUN.svg",
+    "rewardToken": {
+      "symbol": "TESTRUN",
+      "address": {
+        "56": "0xF233Cf443f3a5D5de3e84cA4a95A33476b922D07"
+      },
+      "decimals": 9
+    },
+    "rewardPerBlock": "115640358485111000",
+    "startBlock": 6401695,
+    "bonusEndBlock": 9860695,
+    "contractAddress": {
+        "97": "",
+        "56": "0xe21323A670b8eB4b98637308f5685dF6F02C08c9"
+    },
+    "poolCategory": "CORE",
+    "projectLink": "https://digichaincoin.com",
+    "harvest": true,
+    "sortOrder": 3,
+    "isFinished": true,
+    "tokenDecimals": 9,
+    "lpStaking": false,
+    "abi": "BEP20_REWARD_DIGICHAIN_ABI"
+  },
+]

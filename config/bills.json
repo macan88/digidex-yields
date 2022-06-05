@@ -1,0 +1,92 @@
+[
+    {
+        "index": 0,
+        "network": 56,
+        "billType": "JAMU Bill",
+        "contractAddress": "",
+        "lpToken": {
+            "symbol": "JAMU-BNB",
+            "address": "",
+            "decimals": 18,
+            "mainToken": "JAMU",
+            "quoteToken": "BNB"
+        },
+        "rewardToken": {
+            "symbol": "JAMU",
+            "address": "",
+            "decimals": 18
+        }
+    },
+    {
+        "index": 1,
+        "network": 56,
+        "billType": "JAMU Bill",
+        "contractAddress": "",
+        "lpToken": {
+            "symbol": "BUSD-BNB",
+            "address": "",
+            "decimals": 18,
+            "mainToken": "BUSD",
+            "quoteToken": "BNB"
+        },
+        "rewardToken": {
+            "symbol": "JAMU",
+            "address": "",
+            "decimals": 18
+        }
+    },
+    {
+        "index": 2,
+        "network": 56,
+        "billType": "JAMU Bill",
+        "contractAddress": "",
+        "lpToken": {
+            "symbol": "BUSD-USDC",
+            "address": "",
+            "decimals": 18,
+            "mainToken": "BUSD",
+            "quoteToken": "USDC"
+        },
+        "rewardToken": {
+            "symbol": "JAMU",
+            "address": "",
+            "decimals": 18
+        }
+    },
+    {
+        "index": 3,
+        "network": 56,
+        "billType": "JAMU Bill",
+        "contractAddress": "",
+        "lpToken": {
+            "symbol": "ETH-BNB",
+            "address": "",
+            "decimals": 18,
+            "mainToken": "ETH",
+            "quoteToken": "BNB"
+        },
+        "rewardToken": {
+            "symbol": "JAMU",
+            "address": "",
+            "decimals": 18
+        }
+    },
+    {
+        "index": 4,
+        "network": 56,
+        "billType": "JAMU Bill",
+        "contractAddress": "",
+        "lpToken": {
+            "symbol": "BTC-BNB",
+            "address": "",
+            "decimals": 18,
+            "mainToken": "BTC",
+            "quoteToken": "BNB"
+        },
+        "rewardToken": {
+            "symbol": "JAMU",
+            "address": "",
+            "decimals": 18
+        }
+    }
+]
