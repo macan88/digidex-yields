@@ -4,7 +4,7 @@
     "chainId": 56,
     "name": "JAMU -> JAMU Reward Pool",
     "tokenName": "JAMU",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JAMU.svg",
+    "image": "https://raw.githubusercontent.com/macan88/digidex-token-lists/main/assets/JAMU.svg",
     "stakingToken": {
       "symbol": "JAMU",
       "address": {
@@ -84,7 +84,7 @@
       },
       "decimals": 9
       },
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TESTRUN.svg",
+    "image": "https://raw.githubusercontent.com/macan88/digidex-token-lists/main/assets/TESTRUN.svg",
     "rewardToken": {
       "symbol": "TESTRUN",
       "address": {
